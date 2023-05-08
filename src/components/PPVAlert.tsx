@@ -7,7 +7,7 @@ export default function PPVAlert() {
     >
       Para se inscrever no curso <strong>Pilotando Para Vida</strong>
       <a
-        href="https://ppv.lordriders.com/#inscricao"
+        href="https://forms.gle/aXDmkphS8SSRMoXPA"
         target="_blank"
         className="alert-link text-primary"
         rel="noreferrer"

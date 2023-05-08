@@ -7,7 +7,6 @@ interface Event {
 
 interface EventsProps {
   curitiba: Event[];
-  rancho: Event[];
 }
 
 function SchedulePanel({
@@ -35,7 +34,7 @@ function SchedulePanel({
   );
 }
 
-export default function Schedule({ curitiba, rancho }: EventsProps) {
+export default function Schedule({ curitiba }: EventsProps) {
   return (
     <section className="section static-light footer" id="calendario">
       <div className="container">
@@ -43,11 +42,9 @@ export default function Schedule({ curitiba, rancho }: EventsProps) {
         <Tabs color="red.8" radius="xs" defaultValue="curitiba">
           <Tabs.List>
             <Tabs.Tab value="curitiba">Curitiba</Tabs.Tab>
-            <Tabs.Tab value="rancho">Rancho</Tabs.Tab>
           </Tabs.List>
 
           <SchedulePanel value="curitiba" schedule={curitiba} />
-          <SchedulePanel value="rancho" schedule={rancho} />
         </Tabs>
       </div>
     </section>

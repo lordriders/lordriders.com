@@ -162,7 +162,7 @@ export default function Acoes() {
                     <a
                       className="btn btn-primary"
                       target="_blank"
-                      href="https://ppv.lordriders.com/#inscricao"
+                      href="https://forms.gle/aXDmkphS8SSRMoXPA"
                       rel="noreferrer"
                     >
                       Inscreva-se
