@@ -108,31 +108,6 @@ export default function Menu() {
                         Curitiba
                       </a>
                     </li>
-                    <li>
-                      <a className="dropdown-item" href="#chapter-diversos">
-                        Cambira / Jandaia do Sul
-                      </a>
-                    </li>
-                    <li>
-                      <a className="dropdown-item" href="#chapter-diversos">
-                        Londrina
-                      </a>
-                    </li>
-                    <li>
-                      <a className="dropdown-item" href="#chapter-diversos">
-                        Maringá
-                      </a>
-                    </li>
-                    <li>
-                      <a className="dropdown-item" href="#chapter-diversos">
-                        Medianeira
-                      </a>
-                    </li>
-                    <li>
-                      <a className="dropdown-item" href="#chapter-rancho">
-                        Rancho
-                      </a>
-                    </li>
                   </ul>
                 </li>
                 <li className="nav-item">
