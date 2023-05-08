@@ -1,0 +1,53 @@
+{
+  "schedule": [
+    {
+      "date": "02 de Fevereiro",
+      "description": "Retorno das atividades (LightHouse e discipulados)"
+    },
+    { "date": "04 de Fevereiro", "description": "Treinamento da Equipe PPV" },
+    {
+      "date": "18 de Fevereiro",
+      "description": "1o Arena Motors, Moto Culto de coletamento e integração em Cambira"
+    },
+    { "date": "11 de Março", "description": "PPV no DETRAN" },
+    { "date": "26 de Março", "description": "FireRoad em local a definir" },
+    { "date": "01 de Abril", "description": "PPV no DETRAN" },
+    {
+      "date": "21 a 23 de Abril",
+      "description": "Call to Arms em local a definir"
+    },
+    { "date": "06 de Maio", "description": "PPV no DETRAN" },
+    { "date": "20 de Maio", "description": "Marcha para Jesus" },
+    { "date": "21 de Maio", "description": "FireRoad em local a definir" },
+    { "date": "03 de Junho", "description": "PPV no DETRAN" },
+    { "date": "8 a 11 de Junho", "description": "LoveTrip" },
+    { "date": "01 de Julho", "description": "PPV no DETRAN" },
+    {
+      "date": "22 de Julho",
+      "description": "Arena Motors – Aniversário de 08 anos do LRMC"
+    },
+    { "date": "05 de Agosto", "description": "PPV no DETRAN" },
+    {
+      "date": "19 e 20 de Agosto",
+      "description": "Call to Arms Guarapuava (Pr Rilson)"
+    },
+    { "date": "02 de Setembro", "description": "PPV no DETRAN" },
+    { "date": "24 de Setembro", "description": "FireRoad em local a definir" },
+    { "date": "07 de Outubro", "description": "PPV no DETRAN" },
+    {
+      "date": "21 de Outubro",
+      "description": "Call to Arms em local a definir"
+    },
+    { "date": "11 de Novembro", "description": "PPV no DETRAN" },
+    { "date": "19 de Novembro", "description": "FireRoad em local a definir" },
+    {
+      "date": "25 de Novembro",
+      "description": "Reunião de Planejamento Anual 2024 (Diretoria do LRMC – Curitiba)"
+    },
+    { "date": "02 de Dezembro", "description": "Confraternização LRMC" },
+    {
+      "date": "15 de Dezembro",
+      "description": "Término das atividades (LightHouse e Discipulados)"
+    }
+  ]
+}

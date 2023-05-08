@@ -1,0 +1,136 @@
+
+@font-face {
+    font-family: "TimeBurner";
+    src: url('fonts/timeburner/timeburnernormal.ttf');
+}
+
+@font-face {
+    font-family: "TimeBurner";
+    src: url("fonts/timeburner/timeburnerbold.ttf");
+    font-weight: bold;
+}
+
+.wrapper {
+    height: 100vh;
+    overflow-x: hidden;
+    perspective: 2px;
+}
+
+.section { 
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 0 0 5px #434343;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+
+@media (orientation: portrait) {
+    .section { 
+        min-height: 100vw;
+    }
+}
+
+.parallax::after {
+    content: " ";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: translateZ(-1px) scale(1.5);
+    background-size: 100%;
+    z-index: -1;
+}
+
+.static-dark {
+    background: #434343;
+    color: #F7F9F8;
+}
+
+.static-light {
+    background: #F7F9F8;
+    color: #434343;
+    text-shadow: none;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.h1, .h2, .h3, .navbar-brand {
+    font-family: 'TimeBurner', 'mono', sans-serif;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.em {
+    color: #FA8C4D;
+    font-weight: bold;
+}
+
+.h1-em {
+    font-weight: bold;
+    color: #FA8C4D;
+    font-size: 6rem;
+    vertical-align: top;
+}
+
+.h1 {
+    font-size: 3rem;
+}
+
+#banner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    overflow: hidden;
+    color: white;
+    text-shadow: 0 0 5px #666;
+    min-height: 100vh;
+}
+
+#videobcg {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+    object-fit: cover;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box{
+    width: 100%;
+    height: 100%;            
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    background-image: url('../img/bg/background2.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FA8C4D;
+    z-index: -1;
+}
+
+.divider {
+    color: white;
+    opacity: 100%;
+}
+
+.divider:not([size]) {
+    height: 5px;
+}
