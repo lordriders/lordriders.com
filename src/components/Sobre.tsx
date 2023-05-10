@@ -36,16 +36,6 @@ export default function Sobre() {
               pois acreditamos que tudo podemos Naquele que nos fortalece.
             </p>
             <p>
-              Nosso principal Chapter está na cidade de Curitiba-PR. Possuímos
-              ainda um Chapter nômade que denominamos RANCHO, o qual tem a
-              missão de apoiar a todos os Riders mas em especial, na missão de
-              expandir as cidades de atuação do nosso MC. No Paraná, estamos com
-              representantes nas cidades de Maringá, Cambira, Londrina e
-              Faxinal. Estaremos brevemente no interior Paulista, além de
-              possuirmos representantes em: Mie Ken (Japão) e Manchester
-              (Inglaterra).
-            </p>
-            <p>
               Somos um Moto Clube focado na missão, servos de um Reino que está
               por vir e estamos prontos para servir e sermos usados no que for
               preciso. Nós somos Cavaleiros do Senhor.
