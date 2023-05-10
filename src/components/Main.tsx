@@ -1,9 +1,7 @@
 import Acoes from "./Acoes";
-import Banner from "./Banner";
 import Diretoria from "./Diretoria";
 import Footer from "./Footer";
 import Fotos from "./Fotos";
-import CPC from "./CPC";
 import Historia from "./Historia";
 import Participe from "./Participe";
 import Schedule from "./Schedule";
@@ -15,10 +13,8 @@ export default function Main() {
   
   return (
     <main className="wrapper">
-      <Banner />
       <Sobre />
       <Historia />
-      <CPC />
       <Diretoria />
       <Acoes />
       <ChapterDiversos />
