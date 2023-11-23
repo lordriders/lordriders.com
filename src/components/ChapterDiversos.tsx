@@ -16,7 +16,7 @@ export default function ChapterDiversos() {
     location: "R. Gago Coutinho, 128 - Bacacheri",
     location_url: "https://goo.gl/maps/Q69rhN3NMJBiVFKy6",
     time: "Quintas-feira, 20h",
-    author: { name: null, contact: "+55 41 8415-9755", image: "" }
+    author: { name: null, contact: "+55 41 9667-9134", image: "" }
   };
   return (
     <>
