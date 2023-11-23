@@ -19,7 +19,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/FXFA5045.jpg"
+                src="/media/figs/diretoria/vip.webp"
                 className="figure-img img-fluid diretor"
                 alt="Vice Presidente"
               />
