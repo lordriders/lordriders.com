@@ -7,7 +7,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/presi.webp"
+                src="/media/figs/diretoria/Presi2024"
                 className="figure-img img-fluid diretor"
                 alt="Presidente"
               />
@@ -19,7 +19,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Presi2024.jpg"
+                src="/media/figs/diretoria/vip.webp.jpg"
                 className="figure-img img-fluid diretor"
                 alt="Vice Presidente"
               />
