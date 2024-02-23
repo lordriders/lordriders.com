@@ -168,7 +168,7 @@ p {
 }
 
 .bg1::after {
-    background-image: url('https://ik.imagekit.io/hzsyirayf3r/bg1_CompFyTmh.jpg');
+    background-image: url('../media/bg/bg6.webp');
     background-position: center;
 }
 
