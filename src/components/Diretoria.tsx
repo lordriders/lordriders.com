@@ -75,7 +75,6 @@ export default function Diretoria() {
             <strong>Rose</strong>
             <p className="text-muted">(Rosilene Miskalo)</p>
           </div>
-          </div>
         </div>
       </div>
       <a href="#top-bar" className="back-top a-dark">
