@@ -37,7 +37,7 @@ export default function Footer() {
                 <a
                   className="btn btn-outline-primary"
                   target="_blank"
-                  href="https://ppv.lordriders.com/#inscricao"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSc-eeVHzUvDuELVSk_X0CmUvqDO-fURtKKidaRsXfNGiwWA1A/viewform"
                   rel="noreferrer"
                 >
                   clique aqui
