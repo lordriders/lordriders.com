@@ -63,6 +63,18 @@ export default function Diretoria() {
             <h3 className="h3">Diretor de Planejamento</h3>
             <strong>Kazinho</strong>
             <p className="text-muted">(Kanttly Daniel de Jesus)</p>
+          <div className="col-md-3 text-center">
+            <picture className="figure">
+              <img
+                src="/media/figs/diretoria/Rosi.png"
+                className="figure-img img-fluid diretor"
+                alt="Segundo Tesoureiro"
+              />
+            </picture>
+            <h3 className="h3">Tesoureira</h3>
+            <strong>Rose</strong>
+            <p className="text-muted">(Rosilene Miskalo)</p>
+          </div>
           </div>
         </div>
       </div>
