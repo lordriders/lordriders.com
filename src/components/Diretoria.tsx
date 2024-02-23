@@ -48,7 +48,7 @@ export default function Diretoria() {
                 alt="Segundo Tesoureiro"
               />
             </picture>
-            <h3 className="h3">2° Secretário</h3>
+            <h3 className="h3">2* Secretário</h3>
             <strong>Gabizinha</strong>
             <p className="text-muted">(Gabriela Mincewicz)</p>
           </div>
@@ -60,7 +60,7 @@ export default function Diretoria() {
                 alt="Primeiro Secretário"
               />
             </picture>
-            <h3 className="h3">1° Tesoureiro</h3>
+            <h3 className="h3">1* Tesoureiro</h3>
             <strong>Fabiano</strong>
             <p className="text-muted">(Fabiano Walczak)</p>
           </div>
@@ -72,7 +72,7 @@ export default function Diretoria() {
                 alt="Segundo Tesoureiro"
               />
             </picture>
-            <h3 className="h3">2° Tesoureiro</h3>
+            <h3 className="h3">2* Tesoureiro</h3>
             <strong>Rose</strong>
             <p className="text-muted">(Rosilene Miskalo)</p>
           </div>
