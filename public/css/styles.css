@@ -173,7 +173,7 @@ p {
 }
 
 .bg2::after {
-    background-image: url('https://ik.imagekit.io/hzsyirayf3r/bg2_5uVvigki7.jpg');
+    background-image: url('../media/bg/bg7.webp');
     background-position: center;
 }
 
