@@ -7,7 +7,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Presi2024.png"
+                src="/media/figs/diretoria/Presi2024.webp"
                 className="figure-img img-fluid diretor"
                 alt="Presidente"
               />
@@ -19,7 +19,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Crei2024.png"
+                src="/media/figs/diretoria/Crei2024.webp"
                 className="figure-img img-fluid diretor"
                 alt="Vice Presidente"
               />
@@ -31,7 +31,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Arana.png"
+                src="/media/figs/diretoria/Arana.webp"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
@@ -43,7 +43,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Gabizinha.png"
+                src="/media/figs/diretoria/Gabizinha.webp"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
@@ -55,7 +55,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Fabiano.png"
+                src="/media/figs/diretoria/Fabiano.webp"
                 className="figure-img img-fluid diretor"
                 alt="Primeiro Secretário"
               />
@@ -67,7 +67,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Rosi.png"
+                src="/media/figs/diretoria/Rosi.webp"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
@@ -79,7 +79,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Kazinho.png"
+                src="/media/figs/diretoria/Kazinho.webp"
                 className="figure figure-img img-fluid diretor"
                 alt="Diretor de Planejamento"
               />
