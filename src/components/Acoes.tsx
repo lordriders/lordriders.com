@@ -67,7 +67,7 @@ export default function Acoes() {
                         type="image/webp"
                       />
                       <img
-                        src="/media/figs/lighthouse.jpeg"
+                        src="/media/figs/Lighthouse 2024.webp"
                         alt="Lighthouse"
                         className="flip-card-img figure-img img-fluid rounded"
                       />
