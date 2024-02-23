@@ -1,7 +1,7 @@
 export default function Participe() {
   return (
     <>
-      <section className="section parallax bg6" id="divider6">
+      <section className="section parallax bg1" id="divider1">
         <div className="text-center">
           <hr className="divider" />
           <h1 className="h1">COMO PARTICIPAR DO L.R.M.C.?</h1>
