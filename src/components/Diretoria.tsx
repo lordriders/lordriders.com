@@ -72,7 +72,7 @@ export default function Diretoria() {
                 alt="Segundo Tesoureiro"
               />
             </picture>
-            <h3 className="h3">Tesoureira</h3>
+            <h3 className="h3">2° Tesoureiro</h3>
             <strong>Rose</strong>
             <p className="text-muted">(Rosilene Miskalo)</p>
           </div>
