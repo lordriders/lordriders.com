@@ -63,7 +63,6 @@ export default function Diretoria() {
             <h3 className="h3">Diretor de Planejamento</h3>
             <strong>Kazinho</strong>
             <p className="text-muted">(Kanttly Daniel de Jesus)</p>
-            </div>
             <div className="col-md-3 text-center">
             <picture className="figure">
               <img
