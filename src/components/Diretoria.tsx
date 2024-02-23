@@ -37,7 +37,7 @@ export default function Diretoria() {
               />
             </picture>
             <h3 className="h3">Tesoureira</h3>
-            <strong>Rosi</strong>
+            <strong>Rose</strong>
             <p className="text-muted">(Rosilene Miskalo)</p>
           </div>
           <div className="col-md-3 text-center">
