@@ -63,7 +63,7 @@ export default function Acoes() {
                   <div className="flip-card-front bg-secondary rounded">
                     <picture className="figure">
                       <source
-                        srcSet="/media/figs/lighthouse.webp"
+                        srcSet="/media/figs/Lighthouse 2024.webp"
                         type="image/webp"
                       />
                       <img
