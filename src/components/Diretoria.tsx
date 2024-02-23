@@ -31,26 +31,26 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Rosi.png"
+                src="/media/figs/diretoria/Arana.png"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
             </picture>
-            <h3 className="h3">Tesoureira</h3>
-            <strong>Rose</strong>
-            <p className="text-muted">(Rosilene Miskalo)</p>
+            <h3 className="h3">1ºSecretário</h3>
+            <strong>Arana</strong>
+            <p className="text-muted">(Arthur Arana)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Rosi.png"
+                src="/media/figs/diretoria/Gabizinha.png"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
             </picture>
-            <h3 className="h3">Tesoureira</h3>
-            <strong>Rose</strong>
-            <p className="text-muted">(Rosilene Miskalo)</p>
+            <h3 className="h3">2ºSecretário</h3>
+            <strong>Gabizinha</strong>
+            <p className="text-muted">(Gabriela Mincewicz)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
