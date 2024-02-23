@@ -26,7 +26,7 @@ export default function Diretoria() {
             </picture>
             <h3 className="h3">Vice Presidente</h3>
             <strong>Crei</strong>
-            <p className="text-muted">(Mateus Anfre Matitz da Silva)</p>
+            <p className="text-muted">(Mateus Andre Matitz da Silva)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
