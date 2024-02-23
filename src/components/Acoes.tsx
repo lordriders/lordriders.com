@@ -107,11 +107,11 @@ export default function Acoes() {
                   <div className="flip-card-front bg-secondary rounded">
                     <picture className="figure">
                       <source
-                        srcSet="/media/figs/fireroad.webp"
+                        srcSet="/media/figs/Fire Road.webp"
                         type="image/webp"
                       />
                       <img
-                        src="/media/figs/fireroad.jpeg"
+                        src="/media/figs/Fire Road.webp"
                         alt="Fire Road"
                         className="flip-card-img figure-img img-fluid rounded"
                       />
