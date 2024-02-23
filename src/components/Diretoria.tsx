@@ -74,7 +74,6 @@ export default function Diretoria() {
             <h3 className="h3">Tesoureira</h3>
             <strong>Rose</strong>
             <p className="text-muted">(Rosilene Miskalo)</p>
-          </div>
         </div>
       </div>
       <a href="#top-bar" className="back-top a-dark">
