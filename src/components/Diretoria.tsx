@@ -31,14 +31,14 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/stesoureiro.webp"
+                src="/media/figs/diretoria/Rosi.png"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
             </picture>
             <h3 className="h3">Tesoureira</h3>
-            <strong>Matika</strong>
-            <p className="text-muted">(Marcia Silva)</p>
+            <strong>Rosi</strong>
+            <p className="text-muted">(Rosilene Miskalo)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
