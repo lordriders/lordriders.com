@@ -36,7 +36,7 @@ export default function Diretoria() {
                 alt="Segundo Tesoureiro"
               />
             </picture>
-            <h3 className="h3">1° Secretário</h3>
+            <h3 className="h3">1* Secretário</h3>
             <strong>Arana</strong>
             <p className="text-muted">(Arthur Arana)</p>
           </div>
