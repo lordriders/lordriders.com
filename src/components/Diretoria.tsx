@@ -19,14 +19,14 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/vip.webp"
+                src="/media/figs/diretoria/Crei2024.png"
                 className="figure-img img-fluid diretor"
                 alt="Vice Presidente"
               />
             </picture>
             <h3 className="h3">Vice Presidente</h3>
-            <strong>Cezar</strong>
-            <p className="text-muted">(Cezar Eitelwein)</p>
+            <strong>Crei</strong>
+            <p className="text-muted">(Mateus Anfre Matitz da Silva)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
