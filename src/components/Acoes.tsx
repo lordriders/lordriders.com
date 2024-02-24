@@ -47,10 +47,8 @@ export default function Acoes() {
                     <div className="col-md">
                       <h3 className="h3">CALL TO ARMS</h3>
                       <p>
-                        São nossas viagens, nossas Runs, onde, além de colocar
-                        as motos na estrada e meter marcha, os membros vão a
-                        determinada cidade, lugar ou evento com o intuito de
-                        fazer a diferença na vida das pessoas.
+                        Viagens missionárias, onde os Riders vão até alguma cidade, 
+                        igrja, evento, espalhando o amor e a mensagem de cristo pelo caminho.
                       </p>
                     </div>
                   </div>
