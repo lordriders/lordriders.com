@@ -134,8 +134,9 @@ export default function Acoes() {
                     <div className="col-md">
                       <h3 className="h3">FIRE ROAD</h3>
                       <p>
-                        <img
-                         src="/media/figs/Fire Road.webp"
+                        Visita as igrejas locais, independente da instituição,
+                        onde os Riders vão a convite de amigos ou líderes para
+                        um momento de culto e celebração a Deus.
                       </p>
                     </div>
                   </div>
