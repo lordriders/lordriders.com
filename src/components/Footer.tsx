@@ -136,7 +136,7 @@ export default function Footer() {
         </a>
       </section>
       <footer className="footer text-muted">
-        Feito por Cavalo de Aço Sistemas
+        Feito por MCC Tecno.
       </footer>
       <div id="gallery-modal" className="modal">
         <span className="close" id="close-modal">
