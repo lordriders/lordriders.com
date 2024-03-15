@@ -7,7 +7,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Crei2024.webp"
+                src="/media/figs/diretoria/Presi2024.webp"
                 className="figure-img img-fluid diretor"
                 alt="Presidente"
               />
