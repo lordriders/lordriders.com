@@ -48,7 +48,7 @@ export default function Acoes() {
                       <h3 className="h3">CALL TO ARMS</h3>
                       <p>
                         Viagens missionárias, onde os Riders vão até alguma cidade, 
-                        igrja, evento, espalhando o amor e a mensagem de cristo pelo caminho.
+                        igreja, evento, espalhando o amor e a mensagem de cristo pelo caminho.
                       </p>
                     </div>
                   </div>
