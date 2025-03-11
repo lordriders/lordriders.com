@@ -38,7 +38,7 @@ export default function Schedule({ curitiba }: EventsProps) {
   return (
     <section className="section static-light footer" id="calendario">
       <div className="container">
-        <h2 className="h2">Calendário 2024</h2>
+        <h2 className="h2">Calendário 2025</h2>
         <Tabs color="red.8" radius="xs" defaultValue="curitiba">
           <Tabs.List>
             <Tabs.Tab value="curitiba">Curitiba</Tabs.Tab>
