@@ -1,51 +1,29 @@
 {
   "schedule": [
     {
-      "date": "25 de Janeiro",
+      "date": "06 de Fevereiro",
       "description": "Retorno das atividades (LightHouse e discipulados)"
     },
-    { "date": "24 de Fevereiro", "description": "Treinamento da Equipe PPV" },
+    { "date": "08 de Março", "description": "PPV das Mulheres" },
     {
-      "date": "18 de Fevereiro",
-      "description": "Call to Arms"
+      "date": "31 de Março",
+      "description": "PPV da Polícia Militar"
     },
-    { "date": "02 de Março", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "9 e 10 de Março", "description": "Call to Arms para Ourinhos SP" },
-    { "date": "06 de Abril", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "12 de Abril", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "10 de Maio", "description": "PPV com Garupa" },
+    { "date": "07 de Junho", "description": "PPV no DETRAN com o BPTran" },
     {
-      "date": "14 de Abril",
-      "description": "Call to Arms na Igreja Metodista da Vila Fanny "
+      "date": "05 de Julho",
+      "description": "PPV no DETRAN com o BPTran "
     },
-    { "date": "01 de Maio", "description": "Passeio em Carambei" },
-    { "date": "04 de Maio", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "08 de Junho", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "16 de Junho", "description": "Call to Arms na Igreja Metodista de Olarias - Colombo" },
-    { "date": "6 de Julho", "description": "Passeio em Rastro da Serpente " },
+    { "date": "19 de Julho", "description": "Aniversário de 10 anos do LRMC" },
+    { "date": "02 de Agosto", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "15 de Setembro", "description": "PPV da Polícia Militar" },
+    { "date": "04 de Outubro", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "08 de Novembro", "description": "PPV com Garupa" },
     {
-      "date": "27 de Julho",
-      "description": "Aniversário de 09 anos do LRMC"
-    },
-    { "date": "03 de Agosto", "description": "PPV no DETRAN com o BPTran" },
-    {
-      "date": "18 de Agosto",
-      "description": "Call to Arms em local a definir"
-    },
-    { "date": "14 de Setembro", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "21 de Setembro", "description": "Passeio em local a definir" },
-    { "date": "5 de Outubro", "description": "PPV no QCG - QUARTEL DO COMANDO GERAL DA POLÍCIA MILITAR." },
-    {
-      "date": "20 de Outubro",
-      "description": "Call to Arms em local a definir"
-    },
-    { "date": "09 de Novembro", "description": "PPV no DETRAN com o BPTran" },
-    {
-      "date": "A definir",
-      "description": "Reunião de Planejamento Anual 2025 (Diretoria do LRMC – Curitiba)"
-    },
-    { "date": "A definir", "description": "Confraternização LRMC" },
-    {
-      "date": "A definir",
-      "description": "Término das atividades (LightHouse e Discipulados)"
+      "date": "27 de Novembro",
+      "description": "Término das atividades (LightHouse e Dicipulados)"
     }
   ]
 }
