@@ -10,7 +10,7 @@ export default function Fotos() {
               <picture>
                 <source srcSet="/media/gallery/foto1.webp" type="image/webp" />
                 <img
-                  src="/media/gallery/p1/p1.webp"
+                  src="/media/gallery/foto1.jpeg"
                   width="360"
                   height="240"
                   alt=""
