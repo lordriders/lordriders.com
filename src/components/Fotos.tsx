@@ -21,7 +21,10 @@ export default function Fotos() {
             <div>
               <picture>
                 <source
-                  srcSet="https://github.com/lordriders/lordriders.com/blob/main/public/media/gallery/p1/p1.webp"
+                  srcSet="https://ik.imagekit.io/hzsyirayf3r/gallery/p1_jHtDC-8sA.jpg?tr=w-1440,h-960 1440w,
+          https://ik.imagekit.io/hzsyirayf3r/gallery/p1_jHtDC-8sA.jpg?tr=w-720,h-480 720w,
+          https://ik.imagekit.io/hzsyirayf3r/gallery/p1_jHtDC-8sA.jpg?tr=w-480,h-320 480w,
+          https://ik.imagekit.io/hzsyirayf3r/gallery/p1_jHtDC-8sA.jpg?tr=w-360,h-240 360w"
                   sizes="(min-width: 992px) 33vw, 100vw"
                   type="image/webp"
                 />
