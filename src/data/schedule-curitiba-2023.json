@@ -1,29 +1,25 @@
 {
   "schedule": [
     {
-      "date": "06 de Fevereiro",
+      "date": "26 de Fevereiro",
       "description": "Retorno das atividades (LightHouse e discipulados)"
     },
-    { "date": "08 de Março", "description": "PPV das Mulheres" },
+    { "date": "07 de Março", "description": "PPV das Mulheres" },
+    { "date": "11 de Abril", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "30 de Maio", "description": "PPV Caterpillar" },
+    { "date": "13 de Junho", "description": "PPV no DETRAN com o BPTran" },
     {
-      "date": "31 de Março",
-      "description": "PPV da Polícia Militar"
-    },
-    { "date": "12 de Abril", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "10 de Maio", "description": "PPV com Garupa" },
-     { "date": "24 de Maio", "description": "PPV na Caterpillar" },
-    { "date": "07 de Junho", "description": "PPV no DETRAN com o BPTran" },
-    {
-      "date": "05 de Julho",
+      "date": "04 de Julho",
       "description": "PPV no DETRAN com o BPTran"
     },
-    { "date": "12 de Julho", "description": "Aniversário de 10 anos do LRMC" },
-    { "date": "02 de Agosto", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "04 de Outubro", "description": "PPV no DETRAN com o BPTran" },
-    { "date": "03 de Novembro", "description": "PPV da Polícia Militar" },
-    { "date": "08 de Novembro", "description": "PPV com Garupa" },
+    { "date": "18 de Julho", "description": "Aniversário de 10 anos do LRMC" },
+    { "date": "01 de Agosto", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "24 de Agosto", "description": "PPV da Polícia Militar" },
+    { "date": "12 de Setembro", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "03 de Outubro", "description": "PPV no DETRAN com o BPTran" },
+    { "date": "07 de Novembro", "description": "PPV no DETRAN com o BPTran" },
     {
-      "date": "27 de Novembro",
+      "date": "26 de Novembro",
       "description": "Término das atividades (LightHouse e Dicipulados)"
     }
   ]
