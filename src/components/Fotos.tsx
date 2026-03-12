@@ -21,7 +21,7 @@ export default function Fotos() {
             <div>
               <picture>
                 <source
-                  srcSet="https://github.com/lordriders/lordriders.com/edit/main/src/components/Fotos.tsx#L24C26-L27C89"
+                  srcSet="https://github.com/lordriders/lordriders.com/blob/main/public/media/gallery/p1/p1.webp"
                   sizes="(min-width: 992px) 33vw, 100vw"
                   type="image/webp"
                 />
