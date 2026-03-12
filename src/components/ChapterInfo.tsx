@@ -5,13 +5,12 @@ import {
   ActionIcon,
   Group,
   Text,
-  Avatar,
   Badge,
   rem,
   Box,
   Flex,
 } from '@mantine/core';
-import { IconHeart, IconBookmark, IconShare, IconHelmet, IconCalendarTime, IconMap2, IconBrandWhatsapp, IconBrandOffice, IconBuilding, IconTrafficCone } from '@tabler/icons-react';
+import { IconHelmet, IconCalendarTime, IconMap2, IconBrandWhatsapp, IconBuilding, IconTrafficCone } from '@tabler/icons-react';
 
 const useStyles = createStyles((theme) => ({
   card: {
