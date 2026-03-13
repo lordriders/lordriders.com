@@ -14,7 +14,7 @@ export default function Diretoria() {
             </picture>
             <h3 className="h3">Presidente</h3>
             <strong>Marcão</strong>
-            <p className="text-muted">(Marco Sanson)</p>
+            <p className="text-muted">(Marco Antonio Sanson da Silva)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
@@ -25,20 +25,20 @@ export default function Diretoria() {
               />
             </picture>
             <h3 className="h3">Vice Presidente</h3>
-            <strong>Crei</strong>
-            <p className="text-muted">(Mateus Andre Matitz da Silva)</p>
+            <strong>Moises</strong>
+            <p className="text-muted">(Moises Chevonik)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Arana.webp"
+                src="/media/figs/diretoria/Kazinho.webp"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
             </picture>
             <h3 className="h3">1* Secretário</h3>
-            <strong>Arana</strong>
-            <p className="text-muted">(Arthur Arana)</p>
+            <strong>Kazinho</strong>
+            <p className="text-muted">(Kanttley Daniel de Jesus)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
@@ -49,44 +49,44 @@ export default function Diretoria() {
               />
             </picture>
             <h3 className="h3">2* Secretário</h3>
-            <strong>Gabizinha</strong>
-            <p className="text-muted">(Gabriela Mincewicz)</p>
-          </div>
-          <div className="col-md-3 text-center">
-            <picture className="figure">
-              <img
-                src="/media/figs/diretoria/Fabiano.webp"
-                className="figure-img img-fluid diretor"
-                alt="Primeiro Secretário"
-              />
-            </picture>
-            <h3 className="h3">1* Tesoureiro</h3>
-            <strong>Fabiano</strong>
-            <p className="text-muted">(Fabiano Walczak)</p>
+            <strong>Matika</strong>
+            <p className="text-muted">(Marcia Regina Matitz da Silva)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
                 src="/media/figs/diretoria/Rosi.webp"
                 className="figure-img img-fluid diretor"
-                alt="Segundo Tesoureiro"
+                alt="Primeiro Secretário"
               />
             </picture>
-            <h3 className="h3">2* Tesoureiro</h3>
+            <h3 className="h3">1* Tesoureiro</h3>
             <strong>Rose</strong>
-            <p className="text-muted">(Rosilene Miskalo)</p>
+            <p className="text-muted">(Rosinele Miskalo)</p>
           </div>
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Kazinho.webp"
+                src="/media/figs/diretoria/Fabiano.webp"
+                className="figure-img img-fluid diretor"
+                alt="Segundo Tesoureiro"
+              />
+            </picture>
+            <h3 className="h3">2* Tesoureiro</h3>
+            <strong>Rodrigo</strong>
+            <p className="text-muted">(Rodrigo Batista Sampaio)</p>
+          </div>
+          <div className="col-md-3 text-center">
+            <picture className="figure">
+              <img
+                src="/media/figs/diretoria/Arana.webp"
                 className="figure figure-img img-fluid diretor"
                 alt="Diretor de Planejamento"
               />
             </picture>
             <h3 className="h3">Diretor de Planejamento</h3>
-            <strong>Kazinho</strong>
-            <p className="text-muted">(Kanttly Daniel de Jesus)</p>
+            <strong>Lapa</strong>
+            <p className="text-muted">(Sidnei Rocha da Lapa)</p>
           </div>     
         </div>
       </div>
