@@ -19,7 +19,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Moises.webp.webp"
+                src="/media/figs/diretoria/Moisescerto.webp.webp"
                 className="figure-img img-fluid diretor"
                 alt="Vice Presidente"
               />
@@ -43,7 +43,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Matika.webp.webp"
+                src="/media/figs/diretoria/Matikacerto.webp.webp"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
@@ -67,7 +67,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Rodrigo.webp.webp"
+                src="/media/figs/diretoria/Rodrigocerto.webp.webp"
                 className="figure-img img-fluid diretor"
                 alt="Segundo Tesoureiro"
               />
@@ -79,7 +79,7 @@ export default function Diretoria() {
           <div className="col-md-3 text-center">
             <picture className="figure">
               <img
-                src="/media/figs/diretoria/Lapa.webp.webp"
+                src="/media/figs/diretoria/Lapacerto.webp.webp"
                 className="figure figure-img img-fluid diretor"
                 alt="Diretor de Planejamento"
               />
